@@ -12,7 +12,7 @@ permalink: /classes/
   </div>
 
   <h2>Bits and Bytes is in multiple schools this winter!</h2>
-
+  
   <div class="school-classes">
   	<h3>Atkinson Elementary School</h3>
   	<h4>Little Bytes</h4>

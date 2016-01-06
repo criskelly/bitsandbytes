@@ -10,10 +10,11 @@ title: Bits and Bytes - Coding for Kids
 email: cris.kelly@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Getting elementary school kids coding in Portland, Oregon!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/bitsandbytes" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: scootrecords
 github_username:  criskelly
 
 # Build settings
 markdown: kramdown
+
